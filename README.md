@@ -5,8 +5,7 @@
 Este é um projeto didático da **AlgaWorks**, desenvolvido no nível 1 do curso "Especialista Microsserviços".  
 Tendo como foco principal apresentar os conceitos de **microsserviços** e **mensageria** utilizando o **RabbitMQ**.
 
-🔗 Link do
-curso: [Especialista Microsserviços - AlgaWorks](https://lp.algaworks.com/curso-especialista-microsservicos-java-spring-cadastro)  
+🔗 Link do curso: [Especialista Microsserviços - AlgaWorks](https://lp.algaworks.com/curso-especialista-microsservicos-java-spring-cadastro)  
 _Todos os direitos do conteúdo do curso pertencem à AlgaWorks. Este repositório é utilizado apenas para fins
 educacionais._
 
